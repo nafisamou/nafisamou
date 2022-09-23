@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-![github](https://user-images.githubusercontent.com/108416863/191987908-99b146d3-f9f1-4bc8-83bc-b35fd6406d66.jpg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisamou&label=Profile%20views&color=0e75b6&style=flat" alt="nafisamou" /> </p>
 
