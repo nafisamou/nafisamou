@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh.</h3>
 
 ![james-harrison-vpOeXr5wmR4-unsplash](https://user-images.githubusercontent.com/108416863/193628590-acfd137d-0fb7-47b3-a70c-c5abb2208dad.jpg)
 
