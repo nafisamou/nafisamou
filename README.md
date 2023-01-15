@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, css3, Bootstrap, tailwind**
 
-- 📫 How to reach me **syedanafisaaktermou109@gmail.com**
+- 📫 How to reach me **nafisaakter621@gmail.com**
 
 - ⚡ Fun fact **I love to sleep & travel.**
 
