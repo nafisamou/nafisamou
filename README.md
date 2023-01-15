@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, HTML, css3, Bootstrap, tailwind**
+- 💬 Ask me about **JavaScript, HTML, CSS3, Bootstrap, Tailwind**
 
 - 📫 How to reach me **nafisaakter621@gmail.com**
 
