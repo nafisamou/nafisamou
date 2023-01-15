@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisamou&label=Profile%20views&color=0e75b6&style=flat" alt="nafisamou" /> </p>
 
-- 🔭 I’m currently working on [JavaScript](https://nafisamou.github.io/News-Portal/)
+- 🔭 I’m currently working on [React Js](https://github.com/nafisamou/Cooking-Stove)
 
 - 🌱 I’m currently learning **React**
 
