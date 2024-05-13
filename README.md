@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS3, Bootstrap, Tailwind**
 
-- 📫 How to reach me **nafisaakter621@gmail.com**
-
 - ⚡ Fun fact **I love to sleep & travel.**
 
 <h3 align="left"> :coffee: &emsp;Connect with me:</h3>
